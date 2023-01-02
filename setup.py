@@ -8,7 +8,7 @@ setuptools.setup(
     name="TSUtilities",
     version="0.0.1",
     author="Tyler Blume",
-    url="https://github.com/tblume1992/ThymeBoost",
+    url="https://github.com/tblume1992/TSUtilities",
     long_description=long_description,
     long_description_content_type="text/markdown",
     description = "Various utilities for time series forecasting.",
