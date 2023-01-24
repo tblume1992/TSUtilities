@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TSUtilities",
-    version="0.0.1",
+    version="0.0.2",
     author="Tyler Blume",
     url="https://github.com/tblume1992/TSUtilities",
     long_description=long_description,
